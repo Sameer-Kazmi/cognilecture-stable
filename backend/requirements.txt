@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+yt-dlp
+faster-whisper
+opencv-python
+easyocr
+scenedetect
+sentence-transformers
+faiss-cpu
+psutil
+numpy
+matplotlib
+requests
+python-dotenv
